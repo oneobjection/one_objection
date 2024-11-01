@@ -1,0 +1,32 @@
+body{
+  background-color: #85e6c0;
+  color:#f7f4e8;
+  font-family:Verdana,sans-serif;
+  font-size:20px;
+   text-shadow: 
+               -1px -1px 0px #0b0a0a, 
+               -1px 1px 0px #3b3535,                    
+                1px -1px 0px #292323,                  
+                1px 0px 0px #5f4444;
+}
+a{
+  font-size:18px;
+  text-decoration:solid;
+  background-color:#f7f4e8
+  color:#f7f4e8;
+  text-shadow: 
+               -1px -1px 0px #0b0a0a, 
+               -1px 1px 0px #3b3535,                    
+                1px -1px 0px #292323,                  
+                1px 0px 0px #5f4444;
+}
+a:hover{
+font-size: 40px;
+background-color:#85e6c08;
+color:rgb(204,0,0)
+text-shadow: 
+               -3px -3px 0px #6bb39b, 
+               -3px 3px 0px #6bb39b,                    
+                4px -3px 0px #6bb39b,                  
+                3px 0px 0px #6bb39b;
+}
